@@ -1,6 +1,6 @@
 # Students & Courses API
 
-A small REST API you can practise on: list data, create it, change it, delete it, and follow the relationship between students and the courses they are enrolled in.
+A small REST API one can practise on: list data, create it, change it, delete it, and follow the relationship between students and the courses they are enrolled in.
 
 There is nothing to install beyond the project's own dependencies — no database, no accounts, no API keys.
 
