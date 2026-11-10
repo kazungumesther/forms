@@ -3,6 +3,8 @@
 A small REST API one can practise on: list data, create it, change it, delete it, and follow the relationship between students and the courses they are enrolled in.
 
 There is nothing to install beyond the project's own dependencies — no database, no accounts, no API keys.
+<img width="1739" height="1083" alt="Screenshot from 2026-11-10 21-24-11" src="https://github.com/user-attachments/assets/6c923262-91e5-4dca-9f7a-e7743853aeae" />
+
 
 ## Running it
 
